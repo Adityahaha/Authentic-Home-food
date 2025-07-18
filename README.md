@@ -37,5 +37,5 @@ Easy to customize for any food brand
 Lightweight with no dependencies
 
 
-![Homepage Preview](assets/images/hero.jpg)
+![Homepage Preview](assets/Landing Section.png)
 
