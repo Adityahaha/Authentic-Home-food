@@ -38,4 +38,5 @@ Lightweight with no dependencies
 
 
 ![Homepage Preview](assets/LandingSection.png)
+![Homepage Preview](assets/HomePage.png)
 
